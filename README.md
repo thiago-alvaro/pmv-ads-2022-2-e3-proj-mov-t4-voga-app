@@ -1,19 +1,21 @@
-# TÍTULO DO PROJETO
+# Voga
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto de Aplicação Mobile`
 
-`SEMESTRE`
+`3º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolvimento de aplicação mobile para usuários interessados em moda sob demanda.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Naiara Julieta Maria Carvalho Mafra
+* Augusto Hiroshi Santos Inanobe
+* Luiz Felipe Vitor
+* Hugo Kioshi Ito
+* Samuel Leite Fonseca
+* Thiago Álvaro Barbosa Fraga
 
 ## Orientador
 

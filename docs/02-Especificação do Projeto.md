@@ -136,6 +136,16 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
+|Relacionamento Requisito.|          |RF-01|RF-02|RF-03|RF-04|RF-05|RF-06|RF-07|
+|-------------------------|----------|-----|-----|-----|-----|-----|-----|-----|------| 
+|RF-01                    |          |  x  |  x  |  x  |  x  |  x  |  x  |  x  | 
+|RF-02                    |          |  x  |     |  x  |  x  |  x  |  x  |  x  | 
+|RF-03                    |          |  x  |  x  |     |     |     |     |  x  | 
+|RF-04                    |          |  x  |  x  |     |     |     |     |  x  | 
+|RF-05                    |          |  x  |  x  |     |     |     |     |     | 
+|RF-06                    |          |  x  |  x  |     |     |     |     |     | 
+|RF-07                    |          |  x  |  x  |  x  |  x  |     |     |     | 
+
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
 ![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)

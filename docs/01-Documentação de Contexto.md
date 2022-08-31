@@ -7,18 +7,15 @@ Por se tratar de uma área ainda recente, muitas pessoas interessadas não encon
 
 Considerando se as aspectos mencionados na introdução, procura se implementar solução que integre usuários em um ambiente onde esses tenham atendidos os anseios  por encontrar produtos sustentáveis e interagir com pessoas com interesses afins, bem como dar o poder de promover trocas comerciais de forma fácil e segura, em um ambiente disponível em tempo integral que possa ser acessado por dispositivos móveis. 
 
-## Objetivos
-
-# Objetivo Geral: 
+## Objetivo Geral: 
 O trabalho em destaque tem por objetivo a produção de  aplicativo que possibilite aos indivíduos a comercialização (troca, venda, aluguel) de peças de vestuário a partir de dispositivos móveis. 
 
-# Objetivos Específicos: 
+## Objetivos Específicos: 
 - Facilitar a divulgação de produtos e serviços de moda sob demanda;
 - Propiciar a interação entre indivíduos interessados;
 - Possibilitar pagamentos no próprio app;
 - Constituir banco de dados com preferências;
 - Possibilitar cadastro do usuário com autentificação;
- 
 
 ## Justificativa
 

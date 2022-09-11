@@ -9,7 +9,25 @@ Observando a falta de destinação para peças de roupa em desuso e na intençã
 |![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/persona%20%20Alex%20Alves.jpeg)|**Idade:** 23  anos |“Um app específico para atrair pessoas que curtem moda e calçados estilizados.”|
 |**Motivações:** Vender parte da coleção para conseguir uma renda extra |**Frustrações:** Achar compradores dispostos a pagar uma quantia razoável pela sua coleção.|**História:** Colecionador de camisas de futebol, sua coleção contém mais de 500 camisas de diversos times brasileiros.|
 
+| João Floss           |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/persona%20Jo%C3%A3o%20Floss.jpeg)|**Idade:** 25  anos |“Plataforma que me ajude a divulgar minhas criações.”|
+|**Motivações:** Divulgar seu trabalho de customização de calçados |**Frustrações:** Dificuldade de divulgar seu trabalho e vender os tênis personalizados. |**História:** Apaixonado por tênis, seu hobby atualmente é customizá-los, atualmente ele possui mais de 40 pares.|    
 
+| Raphael Mendonça          |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/persona%20Raphael%20Mendon%C3%A7a.jpeg)|**Idade:** 55  anos |“Encontrar outras pessoas deste perfil que tenham interesse nesse tipo de vestuário”|
+|**Motivações:** Desapego |**Frustrações:** Alugar ou vender seus ternos, que não são mais utilizados. |**História:** Empresário aposentado, possui diversos ternos luxuosos, hoje opta por um estilo mais casual.|
+
+| Rose Gonçalves          |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/persona%20Rose%20Gon%C3%A7alves.jpeg)|**Idade:** 35  anos |“Vender minha arte mesmo quando não estiver nos pontos físicos de exposição”|
+|**Motivações:** Gerar renda através de suas artes, para custear seu estilo de vida livre e suas viagens futuras. Pretende conhecer o mundo |**Frustrações:**  Se muda de local constantemente, por isso acaba vendendo mais para público local. |**História:** Leva uma vida mais no estilo “good vibes”, adoraria divulgar sua arte enquanto viaja pelo país.|
+
+| Ian Fernández         |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/persona%20Ian%20Fern%C3%A1ndez.jpeg)|**Idade:** 39  anos |“Encontrar uma ferramenta que amplie a divulgação”|
+|**Motivações:**  Ajudar em algumas causas sociais da minha comunidade. |**Frustrações:**  A abrangência somente do local de venda física e ferramentas não tão específicas não têm surtido o efeito esperado. |**História:** Ian gosta de se envolver nas causas sociais e na sua comunidade participa ativamente de projetos, como o bazar de roupas da Associação.|
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 

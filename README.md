@@ -19,7 +19,7 @@ Desenvolvimento de aplicação mobile para usuários interessados em moda sob de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino de Lima
 
 ## Instruções de utilização
 

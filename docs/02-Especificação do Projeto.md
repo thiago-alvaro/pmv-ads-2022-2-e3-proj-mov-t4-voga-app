@@ -181,4 +181,4 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 A execução do presente projeto será realizada por uma equipe de seis profissionais com funções devidamente divididas, contando com recursos com recursos materiais (computadores e outros), ferramentas de software. Na elaboração das estimativas, procurou-se discriminar a reserva financeira percentual a ser utilizada em caso excepcional. 
 
 
-![Orçamento](img/02-orcamento.png)
+![Orçamento](img/custos.jpg)

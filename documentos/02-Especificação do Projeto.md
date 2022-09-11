@@ -4,7 +4,9 @@ Observando a falta de destinação para peças de roupa em desuso e na intençã
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| Alex Alves|
+|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/persona%20%20Alex%20Alves.jpeg|Idade: 23|“Um app específico para atrair pessoas que curtem moda e calçados estilizados.”
+|Motivação: Vender parte da coleção para conseguir uma renda extra| Frustrações: Achar compradores dispostos a pagar uma quantia razoável pela sua coleção.| História: Colecionador de camisas de futebol, sua coleção contém mais de 500 camisas de diversos times brasileiros.|
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -22,7 +24,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |´//
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |

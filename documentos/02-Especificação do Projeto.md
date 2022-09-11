@@ -45,10 +45,16 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |´//
+|Eu como… [PERSONA]| …quero/desejo… [O QUE]` |…para que… [POR QUE] |´//
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Eu, Alex Alves, colecionador de camisas de futebol | Vender parte da coleção para conseguir uma renda extra| fazer uma renda extra |
+|Eu, João Floss, personalizador de calçados | Divulgar minhas customizações e alcançar maior número de interessados | fazer o que é meu hobby e encontrar pessoas que apreciem meu trabalho |
+| Eu, Raphael Mendonça, empresário aposentado | Desentulhar meu guarda-roupa com muitos ternos que não faço mais uso | 
+encontrar pessoas do mesmo perfil querendo pagar um menor preço em ternos de luxo |
+| Eu, Rose Gonçalves, artesã e comerciante de arte | Vender e divulgar meu trabalho de forma virtual | 
+Ter maior alcance e não depender de estar somente em pontos físicos |
+| Eu, Ian Fernández, colaborador de Associação | 
+Ajudar a divulgar e vender itens de nosso bazar | Aumentar o volume de vendas que tem sido baixo |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 

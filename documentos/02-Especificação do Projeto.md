@@ -45,7 +45,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|Eu como… [PERSONA]| …quero/desejo… [O QUE]` |…para que… [POR QUE] |´//
+|Eu como… [PERSONA]| …quero/desejo… [O QUE]` |…para que… [POR QUE] |
 |--------------------|------------------------------------|----------------------------------------|
 |Eu, Alex Alves, colecionador de camisas de futebol | Vender parte da coleção para conseguir uma renda extra| fazer uma renda extra |
 |Eu, João Floss, personalizador de calçados | Divulgar minhas customizações e alcançar maior número de interessados | fazer o que é meu hobby e encontrar pessoas que apreciem meu trabalho |

@@ -1,4 +1,4 @@
-# Voga
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Logotipo%20VOGA.jpeg)
 
 `Análise e Desenvolvimento de Sistemas`
 

@@ -5,7 +5,7 @@ Observando a falta de destinação para peças de roupa em desuso e na intençã
 ## Personas
 
 | Alex Alves|
-|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/persona%20%20Alex%20Alves.jpeg|Idade: 23|“Um app específico para atrair pessoas que curtem moda e calçados estilizados.”
+| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/persona%20%20Alex%20Alves.jpeg | Idade: 23|“Um app específico para atrair pessoas que curtem moda e calçados estilizados.”
 |Motivação: Vender parte da coleção para conseguir uma renda extra| Frustrações: Achar compradores dispostos a pagar uma quantia razoável pela sua coleção.| História: Colecionador de camisas de futebol, sua coleção contém mais de 500 camisas de diversos times brasileiros.|
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:

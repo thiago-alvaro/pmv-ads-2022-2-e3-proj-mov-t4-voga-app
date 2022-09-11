@@ -111,10 +111,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
+|Referência    | Restrição  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O App ou site será publicado em um ambiente na Internet. | ALTA | 
+|RNF-002| Uma aplicação web poderá ser acessada por um telefone celular Android ou IOS com uma visualização adequada. |  ALTA |
+|RF-003| A aplicação será compatível com os principais dispositivos do mercado. | ALTA |
+|RF-004| Uma aplicação web deve ser confiável, deve atender às suas especificações.| MEIOS DE COMUNICAÇÃO|
+|RF-005| A aplicação deve tratar a web com alto grau de segurança.| MEIOS DE COMUNICAÇÃO|
+|RF-006| A interface da aplicação deve ser amigável, ou se sentir confortável ao usar o site, de forma que sua experiência torna-se fácil.| BAIXA|
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -133,24 +139,48 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo |
+|02| O aplicativo deve se restringir às tecnologias de desenvolvimento Mobile |
+|03| A equipe não pode subcontratar terceiros para o desenvolvimento do trabalho|
+|04| O projeto não pode ser feito por um único integrante do grupo|
+|05|As decisões pertinentes ao projeto devem ser tomadas por meio democrático de votação|
+|06| O projeto deve estar em conformidade com as leis e normas vigentes|
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+## Referências:
+https://sites.ufop.br/lamparina/blog/moda-sustent%C3%A1vel-e-consumo-consciente-por-que-adot%C3%A1-los
+https://www.treinaweb.com.br/blog/como-funciona-uma-empresa-de-desenvolvimento-de-software
+https://harpersbazaar.uol.com.br/bazaar-green/brasileiras-criam-plataformas-de-reutilizacao-para-roupas-e-acessorios/
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos.
+
+| Ator | Descrição |
+| Usuário | Os usuários se interessam em usar a aplicação para “desapego”. |
+|Banco de Dados | Banco de Dados responsável por armazenar, buscar e gerenciar as solicitações da plataforma |
+
+|Caso de Uso | Descrição | RF |
+|Realizar o Cadastro de usuário | O cadastro deve ser feito a partir de uma ficha de dados com informações do usuário.| RF-001 |
+|Alterar a senha | O usuário deve conseguir alterar sua senha de acesso. | RF-001 |
+|Fazer o login na aplicação | O usuário deve conseguir realizar o login na aplicação através de um nome e uma senha. |RF-001|
+|Chat de interação | A aplicação deve conter um chat de interação entre os usuários.|RF-004 |
+|Pagamentos in-app | O projeto deve conter uma aplicação para pagamento |RF-005 |
+|Geolocalização | A aplicação deve conter a localização dos usuários e um “raio” onde o usuários poderá optar por ver anúncios próximos a ele.| RF-003|
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
+| RELACIONAMENTO | DESCRIÇÃO |
+|INCLUSÃO | É necessário fazer o login na aplicação antes de realizar os casos de uso: “Geolocalização”, “Chat de interação” e “Pagamentos in-app”.|
+|   | Para conseguir visualizar os desapegos é necessário que o banco de dados busque informações por palavra “chave”.|
+|EXTENSÃO | Caso o usuário ainda não tenha cadastro, será necessário fazê-lo antes de fazer login na aplicação. |
+|  | Caso o usuário tenha esquecido sua senha, será necessário alterá-la antes de fazer login na aplicação. |
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/imagem%20cronograma%20de%20caso%20de%20uso.png)
+
+
 
 > **Links Úteis**:
 > - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)

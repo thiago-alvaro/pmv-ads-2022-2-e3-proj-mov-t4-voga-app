@@ -160,10 +160,12 @@ https://harpersbazaar.uol.com.br/bazaar-green/brasileiras-criam-plataformas-de-r
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos.
 
 | Ator | Descrição |
-| Usuário | Os usuários se interessam em usar a aplicação para “desapego”. |
+|--|-------------------------------------------------------|
+|Usuário | Os usuários se interessam em usar a aplicação para “desapego”. |
 |Banco de Dados | Banco de Dados responsável por armazenar, buscar e gerenciar as solicitações da plataforma |
 
 |Caso de Uso | Descrição | RF |
+|--|-------------------------------------------------------|
 |Realizar o Cadastro de usuário | O cadastro deve ser feito a partir de uma ficha de dados com informações do usuário.| RF-001 |
 |Alterar a senha | O usuário deve conseguir alterar sua senha de acesso. | RF-001 |
 |Fazer o login na aplicação | O usuário deve conseguir realizar o login na aplicação através de um nome e uma senha. |RF-001|
@@ -173,6 +175,7 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 | RELACIONAMENTO | DESCRIÇÃO |
+|--|-------------------------------------------------------|
 |INCLUSÃO | É necessário fazer o login na aplicação antes de realizar os casos de uso: “Geolocalização”, “Chat de interação” e “Pagamentos in-app”.|
 |   | Para conseguir visualizar os desapegos é necessário que o banco de dados busque informações por palavra “chave”.|
 |EXTENSÃO | Caso o usuário ainda não tenha cadastro, será necessário fazê-lo antes de fazer login na aplicação. |

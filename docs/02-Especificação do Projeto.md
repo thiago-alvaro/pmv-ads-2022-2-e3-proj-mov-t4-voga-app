@@ -75,8 +75,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitir que os usuários façam login, se cadastrem e alterem sua senha. | ALTA | 
+|RF-002| Feed com produtos.  | MÉDIA |
+|RF-003|Geolocalização       | MÉDIA |
+|RF-004|Chat de interação.   | ALTA  |
+|RF-005|Pagamentos in-app.   | MÉDIA |
+|RF-006|Notificações push.   | BAIXA |
+|RF-007|Interação com pessoas de gostos parecidos próximo a você, em forma de comunidade, para trocar ideias sobre os produtos. | MÉDIA |
 
 ### Requisitos não Funcionais
 

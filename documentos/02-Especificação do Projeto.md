@@ -164,7 +164,7 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 |Usuário | Os usuários se interessam em usar a aplicação para “desapego”. |
 |Banco de Dados | Banco de Dados responsável por armazenar, buscar e gerenciar as solicitações da plataforma |
 
-|Caso de Uso | Descrição | RF |
+|Caso de Uso |Descrição |RF |
 |--|-------------------------------------------------------|
 |Realizar o Cadastro de usuário | O cadastro deve ser feito a partir de uma ficha de dados com informações do usuário.| RF-001 |
 |Alterar a senha | O usuário deve conseguir alterar sua senha de acesso. | RF-001 |
